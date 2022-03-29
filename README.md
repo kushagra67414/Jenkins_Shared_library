@@ -40,3 +40,5 @@ Hello, Dave.
 [Pipeline] // stage
 [Pipeline] End of Pipeline
 Finished: SUCCESS
+
+https://www.tutorialworks.com/jenkins-shared-library/#:~:text=library%20is%20closed.-,What%20is%20a%20Shared%20Library%20in%20Jenkins%3F,re%20used%20to%20with%20Git.
