@@ -40,6 +40,3 @@ Hello, Dave.
 [Pipeline] // stage
 [Pipeline] End of Pipeline
 Finished: SUCCESS
-```
-
-.
